@@ -1,4 +1,9 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# # Local Netlify folder
+# .netlify
 
-# dependencies
-node_modules/
+
+/node_modules
+npm-debug.log
+.DS_Store
+/uploads
+# /*.env
